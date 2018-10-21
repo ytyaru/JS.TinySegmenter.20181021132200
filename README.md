@@ -2,6 +2,8 @@
 
 　分かち書きのJavaScriptライブラリ[TinySegmenter](http://chasen.org/~taku/software/TinySegmenter/tiny_segmenter-0.2.js)を試してみた。
 
+* [demo](https://ytyaru.github.io/JS.TinySegmenter.20181021132200/)
+
 # ライセンス
 
 　このソフトウェアはCC0ライセンスである。
